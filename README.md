@@ -1,3 +1,4 @@
+[Part 1](https://github.com/SJRUK2000/osticket-prereqs) [Part 2] [Part 3](https://github.com/SJRUK2000/osticket-ticket-lifecycle)
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
